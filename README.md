@@ -1,22 +1,20 @@
 # Self-Driving-Cars
 
-- This repository contains the code for the development of a software application for a tool library. This project was done in the C# programming language in visual studio.
+- This repository contains the code and research findings of the detailed investigation into self driving car accidents and their causes. This project is currently based on theory.
 
 ---
 ### Skills gained at the completion of the project
-- This project explore the implementation of data structures such as linked list, binary search tress etc etc.
-- Efficiency of algorithms
-- Reducing and Optimizing space and time complexity
+- Research into self driving cars and autonomy
 ---
 ### Installation/Use instructions
--   This project can be opened and run in visual studio.
+-   This project can be opened via powerpoint or VLC
 ---
 ### Completed Project
-- Given below is the psuedocode for the insertion sort used and the basic layout for the CLI for the project
+- Given below is the video presentation of the completed project
 
 ---
 ### Notes about the Project
-- open source can use/contribute to it
+- Practical testing on hypothesis can be done via the use of Unity3D and C# to model a car on the track with a neural net and tested against collisions.
 ---
 
 https://user-images.githubusercontent.com/71302996/151763620-d952a9c5-5e47-401f-afe1-0e14d20cc093.mp4
