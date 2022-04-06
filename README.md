@@ -16,6 +16,7 @@
 ### Notes about the Project
 - Practical testing on hypothesis can be done via the use of Unity3D and C# to model a car on the track with a neural net and tested against collisions.
 - Links to help implement practical testing  
+- https://www.youtube.com/watch?v=y8BqgJkblkM&list=PLZ1b66Z1KFKgkE9ji0tF2iDO0LGxmlwIm&index=22  
 - https://unity.com/products/machine-learning-agents.  
 ---
 
